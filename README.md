@@ -4,7 +4,7 @@
 
 I am a CS undergraduate at the **University of North Carolina at Charlotte**.
 
-I love to learn new technologies and to create video games.
+I love to learn new technologies and to create.
 
 - 🔭 I’m currently working on a 2D Platformer with a small team. You can see the progress at [Project Prince](https://github.com/miad2401/ProjectPrince)
 - 🌱 I’m currently learning 2D Animation, Event-Driven Programming, and the Basics of Artifical Intelligence
