@@ -6,6 +6,7 @@ I am a Senior CS undergraduate at the **University of North Carolina at Charlott
 
 I love to learn new technologies and to create.
 
+- 📜 See my portfolio at [joeyrparker.com](https://joeyrparker.com)
 - 🔭 I'm currently finishing up my personal Unreal Engine project - **Automafarm!** My goal with this project is to learn the Unreal engine and to create my first 3D game. You can see my progress at [Automafarm Repository](https://github.com/Ninjajkl/Automafarm) or download the latest build at [Automafarm Itch Page](https://itch.io/).
 - 🔬 I'm also finishing up a group Godot game for the Game Developers at UNCC Club’s 49er Kickoff Game Jam, **Rogue Science**. In this project, I am the Lead Programmer, Level Designer, and Project Manager. You can see the progress at [Rogue Science Repository](https://github.com/SweetFrontier/RogueScience) or download the latest build at [Rogue Science Itch Page](https://sweetfrontier.itch.io/rogue-science).
 - 🐄 In Spring 2023 I was part of a group for the UNCC Club’s 49hr Game Jam, where we made **OrbitaLoop (Orbital Loop)**. In this project, I was the Lead Programmer, Game Designer, and Project Manager. You can see the finished [OrbitaLoop Repository](https://github.com/Ninjajkl/Orbit-Loop/tree/MouseControl) and download the full game at [OrbitaLoop Itch Page](https://sakarmit.itch.io/orbital-loop)
